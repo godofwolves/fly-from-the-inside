@@ -21,3 +21,8 @@ display: inline-block;
  display:inline; 
 }
   
+@media only screen and (max-width : 800) {
+ .why {
+  display: inline;
+  }
+}
