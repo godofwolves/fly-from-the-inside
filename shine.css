@@ -2,10 +2,16 @@ h1 {
 color: red
 }
 
-p {
-color: red
-}
-
 body {
   background-color: #b3b3b3
+}
+
+.intro {
+color: red;
+display: inline-block;
+  
+}
+
+.why {
+ display: flex; 
 }
