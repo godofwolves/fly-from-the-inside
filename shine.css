@@ -21,10 +21,9 @@ display: inline-block;
  display:inline; 
 }
   
-@media only screen and (max-width : 400px) {
- div {
+@media only screen and (max-width : 800px) {
+ body {
   display: block;
-  width: 100vw;
   margin-left: 0;
    }
 }
