@@ -22,7 +22,8 @@ display: inline-block;
 }
   
 @media only screen and (max-width : 400px) {
- .why {
+ div {
   display: block;
+  width: 100vw
    }
 }
