@@ -23,6 +23,7 @@ display: inline-block;
   
 @media only screen and (max-width : 800) {
  .why {
-  display: inline;
+  display: inline-block;
+    text-align: center;
   }
 }
