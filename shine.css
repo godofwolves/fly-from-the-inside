@@ -22,8 +22,7 @@ display: inline-block;
 }
   
 @media only screen and (max-width : 800px) {
- body {
-  display: block;
-  margin-left: 0;
+<div style="display:flex;justify-content:center;align-items:center;">Text Content</div>
+
    }
 }
