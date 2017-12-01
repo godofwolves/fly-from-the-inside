@@ -9,7 +9,7 @@ p {
  color: red 
 }
 .intro {
-display: inline-block;
+display: inline;
   
 }
 
@@ -30,7 +30,7 @@ display: inline-block;
 }
  
 .intro {
-display: inline-block;
+display: inline;
   
 }
   body {
