@@ -14,7 +14,7 @@ display: inline;
 }
 
 .why {
- display: flex; 
+ display: inline-flex; 
 }
 
 .gah {
@@ -23,17 +23,6 @@ display: inline;
   
 @media only screen and (max-width : 800px) {
 .why {
-  display: inline;
+  display: inline-block;
    }
-.gah {
- display:inline; 
-}
- 
-.intro {
-display: inline;
-  
-}
-  body {
- display: inline;
-}
 }
